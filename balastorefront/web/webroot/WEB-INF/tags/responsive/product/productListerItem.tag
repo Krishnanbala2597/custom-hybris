@@ -45,6 +45,7 @@
 		<c:if test="${not empty product.summary}">
 			<div class="product__listing--description">${ycommerce:sanitizeHTML(product.summary)}</div>
 		</c:if>
+		<h1>bala</h1>
 
 
 
